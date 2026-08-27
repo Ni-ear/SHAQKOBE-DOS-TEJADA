@@ -22,7 +22,7 @@ RT-Spark LED Testing LED control routines on Arduino/RT-Spark hardware using RT-
 
 📫 Let's Connect
 Portfolio: [your portfolio site link]
-Email: [your email]
+Email: shaqkobeyt@gmail.com
 LinkedIn: [your LinkedIn link]
 
 Open to remote developer and freelance opportunities — let's work together!
